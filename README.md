@@ -4,8 +4,9 @@
 ### GitHub Stats⚡
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoonjonglyu&count_private=true&show_icons=true&theme=radical)
 
-### languages ⚡
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjonglyu&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+### Languages ⚡
+> * HIDE HTML & CSS stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjonglyu)](https://github.com/anuraghazra/github-readme-stats)
 
 	
 <!--
