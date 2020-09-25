@@ -2,11 +2,11 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunjonglyu@gmail.com)](mailto:yunjonglyu1@gmail.com)
 
 ### GitHub Stats⚡
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yoonjonglyu&count_private=true&show_icons=true&theme=radical)
+![ISA github stats](https://github-readme-stats.vercel.app/api?username=yoonjonglyu&count_private=true&show_icons=true&theme=radical)
 
 ### Languages ⚡
 > * HIDE HTML & CSS stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjonglyu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonjonglyu&langs_count=10&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 	
 <!--
