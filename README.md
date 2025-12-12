@@ -7,27 +7,16 @@ I build **reusable UI/UX systems**, rapid prototypes, and modern **web/mobile ap
 
 ---
 
-<!-- Light Mode Badges -->
-<div id="gh-light-mode-only">
-  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
-</div>
 
-<!-- Dark Mode Badges -->
-<div id="gh-dark-mode-only">
-
-![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=339933)
-![PWA](https://img.shields.io/badge/PWA-1a1a1a?style=for-the-badge&logo=pwa&logoColor=5A0FC8)
-
-</div>
 
 </div>
 
