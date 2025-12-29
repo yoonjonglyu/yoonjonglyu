@@ -97,7 +97,7 @@ A modular design system built with **React + TypeScript + Storybook**.
 ## 🔗 Links
 
 - **GitHub Page**: https://yoonjonglyu.github.io  
-- **Email**: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yunjonglyu1@gmail.com)
+- **Email**: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:yunjonglyu@gmail.com)
 - **Medium**: https://medium.com/@yunjongRyu  
 - **Tistory**: https://isa-dev.tistory.com
 
